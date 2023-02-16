@@ -13,3 +13,5 @@ The 4-puts.c script prints exactly "Programming is like building a multilingual 
  
 The 5-printf.c script prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
  
+The 6-size.c script prints the size of various types on the computer it is compiled and run on.
+ 
