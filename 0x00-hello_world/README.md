@@ -11,3 +11,5 @@ The 3-name script ompiles a C file and creates an executable named cisfun.
  
 The 4-puts.c script prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
  
+The 5-printf.c script prints exactly with proper grammar, but the outcome is a piece of art,, followed by a new line.
+ 
