@@ -15,3 +15,5 @@ The 5-printf.c script prints exactly with proper grammar, but the outcome is a p
  
 The 6-size.c script prints the size of various types on the computer it is compiled and run on.
  
+The 100-intel script generates the assembly code (Intel syntax) of a C code and save it in an output file.
+ 
