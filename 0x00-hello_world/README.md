@@ -9,3 +9,5 @@ The 2-assembler script generates the assembly code of a C code and save it in an
  
 The 3-name script ompiles a C file and creates an executable named cisfun.
  
+The 4-puts.c script prints exactly "Programming is like building a multilingual puzzle, followed by a new line.
+ 
