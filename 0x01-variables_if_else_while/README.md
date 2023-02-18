@@ -16,6 +16,8 @@ The 6-print_numberz.c program  prints all single digit numbers of base 10 starti
 
 The 7-print_tebahpla.c program prints the lowercase alphabet in reverse, followed by a new line.
 
+The 8-print_base16.c program prints all the numbers of base 16 in lowercase, followed by a new line.
+
 
 
 
