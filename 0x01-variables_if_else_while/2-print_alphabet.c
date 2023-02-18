@@ -15,7 +15,7 @@ int main(void)
 	{
 		putchar(s_letter);
 		s_letter++;
-		putchar('\n');
 	}
+	putchar('\n');
 	return 0;
 }
