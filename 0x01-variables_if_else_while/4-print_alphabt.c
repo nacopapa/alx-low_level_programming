@@ -14,7 +14,10 @@ int main(void)
 /* Print in lowercases*/
 	while (s_letter <= 'z')
 	{
-		putchar(s_letter);
+		if (s_letter != 'e' && s_letter != 'q')
+		{
+			putchar(s_letter);
+		}
 		s_letter++;
 	}
 	putchar('\n');
