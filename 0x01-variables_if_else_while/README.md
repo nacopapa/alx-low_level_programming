@@ -12,5 +12,7 @@ The 4-print_alphabt.c program prints all single digit numbers of base 10 startin
 
 The 5-print_numbers.c program prints all single digit numbers of base 10 starting from 0, followed by a new line.
 
+The 6-print_numberz.c program  prints all single digit numbers of base 10 starting from 0, followed by a new line.
+
 
 
