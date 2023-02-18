@@ -6,5 +6,7 @@ The 1-last_digit.c program assigns a random number to the variable n each time i
 
 The 2-print_alphabet.c is a program that prints the alphabet in lowercase, followed by a new line.
 
+The 3-print_alphabets.c is a program that prints the alphabet in lowercase, and then in uppercase, followed by a new line.
+
 
 
