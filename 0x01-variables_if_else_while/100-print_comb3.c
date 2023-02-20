@@ -8,18 +8,22 @@
  */
 int main(void)
 {
-	int x = 1;
+	int x;
+	int y;
 
-	while (x < 90)
+	for (x = 0; x < 9; x++)
 	{
-		putchar ((x / 10) + '0');
-		putchar ((x % 10) + '0');
-		if (x < 90)
+		for (y = x + 1; y < 10; y++)
 		{
-			putchar(',');
-			putchar(' ');
+			putchar (x  + '0');
+			putchar (y  + '0');
+			if (x != 8 || y != 9)
+			{
+				putchar(',');
+				putchar(' ');
+			}
 		}
-		x++;
 	}
+	putchar('\n');
 	return (0);
 }
