@@ -14,4 +14,7 @@ The 5-sign.c program prints the sign of a number.
 
 The 6-abs.c is a program that computes the absolute value of an integer.
 
+The 7-print_last_digit.c program prints the last digit of a number.
+
+
 
