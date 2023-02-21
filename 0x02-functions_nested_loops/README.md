@@ -6,4 +6,6 @@ The 1-alphabet.c program prints the alphabet, in lowercase, followed by a new li
 
 The 2-print_alphabet_x10.c program prints 10 times the alphabet, in lowercase, followed by a new line.
 
+The 3-islower.c is a progarm that checks for lowercase character.
+
 
