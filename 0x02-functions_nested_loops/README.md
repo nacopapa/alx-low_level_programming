@@ -10,6 +10,8 @@ The 3-islower.c is a progarm that checks for lowercase character.
 
 The 4-isalpha.c program checks for alphabetic character.
 
+The 5-sign.c program prints the sign of a number.
+
 
 
 
