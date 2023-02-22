@@ -24,4 +24,6 @@ The 10-add.c program adds two integers and returns the results
 
 The 11-print_to_98.c program prints all natural numbers from n to 98, followed by a new line.
 
+The 100-times_table prints the n times table, starting with 0.
+
 
