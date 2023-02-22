@@ -20,4 +20,6 @@ The 8-24_hours.c program prints every minute of the day of Jack Bauer, starting 
 
 The 9-times_table.c program prints the 9 times table, starting with 0.
 
+The 10-add.c program adds two integers and returns the results
+
 
