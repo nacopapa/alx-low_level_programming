@@ -26,4 +26,6 @@ The 11-print_to_98.c program prints all natural numbers from n to 98, followed b
 
 The 100-times_table prints the n times table, starting with 0.
 
+The 101-natural.c program prints the natural numbers below 10 that are multipes of 3 or 5, we get 3,5,6 an 9
 
+The 102-fibonacci.c program prints the first 50 fibonacci numbers, starting with 1 and 2 followed by a new line 
