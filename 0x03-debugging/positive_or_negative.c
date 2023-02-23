@@ -1,27 +1,31 @@
 #include <stdio.h>
-
+/* betty style doc for function main goes there */
 /**
- * main - main entry 
- * @i: int integer type
- * Return Always 0 (Success)
+ * main - The entry part of the program
+ *
+ * Description: A program to return negative and positive numbers
+ *
+ * Return: Always 0 (Success)
  */
-
-void positive_or_negative(void)
+int main(void)
 {
-	int i = 0;
+	int n=98;
 
-	if (i > 0)
+/**	srand(time(0));
+ *	n = rand() - RAND_MAX / 2;
+ */
+	/* your code goes there */
+	if (n > 0)
 	{
-		printf("%d is positive\n", i);
-
+		printf("%d is positive\n", n);
 	}
-	else if (i == 0)
+	if (n == 0)
 	{
-		printf("%d is zero\n", i);
+		printf("%d is zero\n", n);
 	}
-	else 
+	else if (n < 0)
 	{
-		printf("%d is negative", i);
+		printf("%d is negative\n", n);
 	}
-
+	return (0);
 }
