@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include "main.h"
 
 /**
  * print_numbers - a function to print then numbers from 0 to 9
@@ -11,7 +11,7 @@ void print_numbers(void)
 
 	for (i = 0; i <= 9; i++)
 	{
-		putchar("%d", i);
+		_putchar(i + '0');
 	}
-	return (0);
+	_putchar('\n');
 }
