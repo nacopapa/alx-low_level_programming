@@ -1,4 +1,10 @@
 #include "main.h"
+/**
+ * more_numbers - a function to count 1-14
+ * @x int type
+ * @ int type
+ * Return: Always 0
+ */
 
 void more_numbers(void)
 {
