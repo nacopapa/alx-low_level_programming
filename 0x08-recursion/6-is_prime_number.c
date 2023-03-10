@@ -29,6 +29,12 @@ int is_prime_number(int n)
 	}
 }
 
+/**
+ * prime_number - helper function, recursive steps taken
+ * @n: number given to original function is_prime_number
+ * @divider: incrementer divisor
+ * Return: 0 if not prime, 1 if prime
+ */
 
 int prime_number(int divider, int n)
 {
